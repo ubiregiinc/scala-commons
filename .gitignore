@@ -1,0 +1,13 @@
+project/project/target
+project/target
+target
+.history
+.idea
+.idea_modules
+.classpath
+.project
+.cache
+.target
+.settings
+.DS_Store
+*.swp
